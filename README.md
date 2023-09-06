@@ -1,5 +1,5 @@
 # User Scripts
-These are tampermonkey scripts to automatically check into airlines
+These are tampermonkey or Greasemonkey scripts to automatically check into airlines
 
 ## Southwest
 First reliable script to check in into Southwest
